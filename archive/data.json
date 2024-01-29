@@ -1,0 +1,41 @@
+{
+    "timeline": [
+        {
+            "time_period": "Apr 2017 to Mar 2020",
+            "title": "Diploma in Chemical & Green Technology",
+            "details": "",
+            "className":"dip"
+        },
+        {
+            "time_period": "Mar 2019 to Aug 2019",
+            "title": "Intern at GlaxoSmithKline Biologicals (GSK)",
+            "details": "During my internship, I was introduced to coding in VBA by a colleague. I then used it to automate a small portion of my tasks. This was my first introduction to coding, and first lit the spark in me to begin learning it on my own.",
+            "className":"intern"
+        },
+        {
+            "time_period": "Apr 2020 to Mar 2021",
+            "title": "Lab Technician at Chemical Industries Limited (CIL)",
+            "details": "While taking the course, I was working full-time at a laboratory. I was learning Python in my own free time to see if any of the tasks at work could be automated. I eventually found that most of them were, but left before I was able to bring those ideas up. After seeing the automation process replicated at home, I was inspired to continue to learn.",
+            "className":"lab"
+        },
+        {
+            "time_period": "Jan 2021 to Sep 2021",
+            "title": "Specialist Diploma in Environmental Management and Applied Water Technology",
+            "details": "",
+            "className":"spec-dip-1"
+        },
+        {
+            "time_period": "Apr 2021 to Current",
+            "title": "Manufacturing Technologist at Micron Semiconductor",
+            "details": "While executing my primary job duties, I spotted an area of improvement, where all stakeholders could not see an overview of information unless they manually looked it up with multiple applications, which was extremely time-consuming even for a single datum. The information needed to be viewed multiple times for different tools, multiple times in a day. I wrote SQL queries and developed a Tableau dashboard to help solve this problem, fixing issues and upgrading the dashboard with additional features as needed. I wrote Microsoft Excel VBA code to upgrade existing reports and amended/created other SQL queries when requested. In my personal time, I learnt front and back-end web development and some web development frameworks and put those skills to work on some projects. Currently, I am learning machine learning in Python using scikit-learn, along with data analysis tools such as Numpy, Pandas, Seaborn, and Matplotlib.",
+            "className":"semicon"
+        },
+        {
+            "time_period": "Oct 2021 to Aug 2022",
+            "title": "Specialist Diploma in Automation and Robotics",
+            "details": "I learnt about robotic programming, sensors, and assembly of electromechanical systems. More importantly, I learnt about PLC programming with ladder diagram programming, function block diagrams, structured text programming, and instruction lists. I had hands-on experience with controlling inputs (examples include sensors and buttons) and outputs (pneumatic actuators, lights, and buzzers). In the course, I also learnt about machine vision and attended labs where we worked with a machine vision program. In addition, the course also covered data communication and networks.",
+            "className":"spec-dip-2"
+        }
+
+    ]
+}

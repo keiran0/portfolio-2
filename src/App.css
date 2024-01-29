@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body {
+  background-color: lightgrey;
+  margin:0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.introduction {
+  background-color: azure;
+}
+
+.introduction-container {
+  margin: 0 15%;
+  padding: 5% 0 3%
+}
+
+h1 {
+  margin:0;
+  padding:0;
+  line-height:1
+}
+
+.skills {
+  display:grid;
+  grid-template-columns: 25% 25% 25% 25%
+}
+
+/* timeline */
+
+.timeline {
+  display:grid;
+  grid-template-areas: 
+  "timeline-dip ."
+  "timeline-dip timeline-intern"
+  ". timeline-lab"
+  "timeline-spec-dip-1 timeline-lab"
+  "timeline-spec-dip-1 timeline-semicon"
+  "timeline-spec-dip-2 timeline-semicon"
+  ". timeline-semicon";
+  margin: 3% 15%;
+  grid-template-columns: 50% 50%;
+}
+
+.timeline-job-description .highlight {
+  font-weight: 600
+}
+
+.timeline-item.dip{
+  grid-area: timeline-dip
+}
+
+.timeline-item.intern{
+  grid-area: timeline-intern
+}
+
+.timeline-item.lab{
+  grid-area: timeline-lab
+}
+
+.timeline-item.spec-dip-1{
+  grid-area: timeline-spec-dip-1
+}
+
+.timeline-item.semicon{
+  grid-area: timeline-semicon
+}
+
+.timeline-item.spec-dip-2{
+  grid-area: timeline-spec-dip-2
+}
+
+.timeline-item {
+  margin:5%;
+  padding:15px;
+  border-radius:7px;
+  background-color: white;
+}
+
+#root {
+  background-color: rgb(211, 224, 255);
+  padding: 3% 7%
+}
+
+.categories {
+  display:grid;
+  grid-template-columns: 50% 50%;
+  justify-content: center;
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  margin: 5%;
+  border-radius: 10px;
+  min-height: 20vh;
+  padding: 10%
+}
+
+@media screen and (max-width: 900px){
+  .skills {
+    display:block
+  }
+
+}
+
+@media screen and (max-width: 750px){
+
+  .timeline {
+    display:block
+  }
+
+  .categories {
+    display:block
+  }
+}

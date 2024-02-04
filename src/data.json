@@ -11,78 +11,78 @@
                         "codeLink":"https://github.com/keiran0/frontendMentor_rest-countries-api/",
                         "siteLink":"https://keiran0.github.io/frontendMentor_rest-countries-api/",
                         "description":"Built using React. The data is obtained through an API call to OpenWeatherMap. It has a light and dark mode that can be toggled through a button on the top right side of the screen.",
-                        "preview":"src/assets/countries.png"
+                        "preview":"./src/assets/countries.png"
                     },
                     {
                         "title":"Project Management App with React",
                         "codeLink":"https://github.com/keiran0/ms-react_project_management_app",
                         "siteLink":"https://keiran0.github.io/ms-react_project_management_app/",
                         "description":"After getting comfortable with Vanilla HTML, CSS and JavaScript, I decided to learn React. This project was part of a challenge on the course I learnt React from.",
-                        "preview": "src/assets/project-management.png"
+                        "preview": "./src/assets/project-management.png"
                     },
                     {
                         "title":"Space Tourism Website",
                         "codeLink":"https://github.com/keiran0/frontendMentor-space_tourism_website",
                         "siteLink":"https://keiran0.github.io/frontendMentor-space_tourism_website/",
                         "description":"",
-                        "preview": "src/assets/space.png"
+                        "preview": "./src/assets/space.png"
                     },
                     {
                         "title":"Fylo Landing Page",
                         "codeLink":"https://github.com/keiran0/frontendMentor-fylo-landing-page",
                         "siteLink":"https://keiran0.github.io/frontendMentor-fylo-landing-page/",
                         "description":"I wanted to try a full page website and thought this would fit my wants.",
-                        "preview": "src/assets/fylo.png"
+                        "preview": "./src/assets/fylo.png"
                     },
                     {
                         "title":"Interactive Notifications Page",
                         "codeLink":"https://github.com/keiran0/frontendMentor-notifications_page/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-notifications_page/",
                         "description":"",
-                        "preview": "src/assets/notifications.png"
+                        "preview": "./src/assets/notifications.png"
                     },
                     {
                         "title":"QR Code Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-qrcode-component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-qrcode-component/",
-                        "preview": "src/assets/qrcode.png"
+                        "preview": "./src/assets/qrcode.png"
                     },
                     {
                         "title":"Result Summary Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-result_component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-result_component/",
-                        "preview": "src/assets/result.png"
+                        "preview": "./src/assets/result.png"
                     },
                     {
                         "title":"Product Preview Card Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor_product-preview-card-component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor_product-preview-card-component/",
-                        "preview": "src/assets/product-preview.png"
+                        "preview": "./src/assets/product-preview.png"
                     },
                     {
                         "title":"Stats Preview Card Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-stats-preview-card-component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-stats-preview-card-component/",
-                        "preview": "src/assets/stats-preview.png"
+                        "preview": "./src/assets/stats-preview.png"
                     },
                     {
                         "title":"Order Summary Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-order-summary-component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-order-summary-component/",
-                        "preview": "src/assets/order-summary.png"
+                        "preview": "./src/assets/order-summary.png"
                     },
                     {
                         "title":"NFT Preview Card Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-NFT-preview-card-component",
                         "siteLink":"https://keiran0.github.io/frontendMentor-NFT-preview-card-component/",
-                        "preview": "src/assets/NFT.png"
+                        "preview": "./src/assets/NFT.png"
                     },
                     {
                         "title":"Interactive Rating Component",
                         "codeLink":"https://github.com/keiran0/frontendMentor-interactive-rating-component/",
                         "siteLink":"https://keiran0.github.io/frontendMentor-interactive-rating-component/",
                         "description":"At this point, I wanted to try to do something more interactive with JavaScript and event listeners, which led to this project and the project below.",
-                        "preview": "src/assets/rating.png"
+                        "preview": "./src/assets/rating.png"
                     }
 
 
@@ -98,14 +98,14 @@
                         "codeLink":"https://github.com/keiran0/ay-webdev-bootcamp_todolist_w_db",
                         "siteLink":"https://atlas-73b0.onrender.com/",
                         "description":"This is a project done as part of a course. It uses MongoDB to store and retrieve items in the list. When all items are deleted, it adds in 3 more items to show you how to use it.",
-                        "preview": "src/assets/todolist.png"
+                        "preview": "./src/assets/todolist.png"
                     },
                     {
                         "title":"Daily Journal with NodeJS, ExpressJS and MongoDB",
                         "codeLink":"https://github.com/keiran0/ay-webdev-bootcamp_blog_website_w_db",
                         "siteLink":"https://blog-website-with-database-w812.onrender.com/",
                         "description":"This is a project done as part of a course. I learnt more about routing and practiced more implementation of MongoDB, as well as a popular third-party library for small utility functions, 'lodash'. The front-end was provided as part of the course materials.",
-                        "preview": "src/assets/blog.png"
+                        "preview": "./src/assets/blog.png"
                     }
                 ]
             },
@@ -119,7 +119,7 @@
                         "codeLink":"https://github.com/keiran0/kaggle-titanic-machine-learning-from-disaster/blob/master/titanic.ipynb",
                         "siteLink":"https://keiran0.github.io/kaggle-titanic-machine-learning-from-disaster/",
                         "description":"",
-                        "preview":"src/assets/titanic-kaggle.png"
+                        "preview":"./src/assets/titanic-kaggle.png"
                     }
                 ]
             }

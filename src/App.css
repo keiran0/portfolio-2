@@ -37,7 +37,7 @@ h1 {
   "timeline-spec-dip-1 timeline-semicon"
   "timeline-spec-dip-2 timeline-semicon"
   ". timeline-semicon";
-  margin: 3% 15%;
+  margin: 3% 25%;
   grid-template-columns: 50% 50%;
 }
 
@@ -78,7 +78,8 @@ h1 {
 
 #root {
   background-color: rgb(211, 224, 255);
-  padding: 3% 7%
+  padding: 0 7%;
+  display:grid;
 }
 
 .categories {
@@ -87,13 +88,92 @@ h1 {
   justify-content: center;
 }
 
-.card {
+.card-categories {
   background-color: rgb(255, 255, 255);
   margin: 5%;
   border-radius: 10px;
   min-height: 20vh;
-  padding: 10%
+  padding: 10%;
+  border: 1px solid white;
 }
+
+.button:hover{
+  background:linear-gradient(1deg, rgb(192, 209, 213), white);
+  border: 1px solid #3cb9ca;
+  cursor: pointer;
+  color:black;
+}
+
+.showcase-container {
+
+}
+
+.showcase {
+  display:grid;
+  grid-template-columns: repeat(3, 30%);
+}
+
+embed {
+  height: 95%;
+  width: 100%
+}
+
+dialog {
+  position:fixed;
+  width: 70vw;
+  height: 70vh;
+  top: 15%;
+  background-color: grey;
+}
+
+.button-close-modal {
+  position: absolute;
+  top:-20px;
+  right:-20px;
+  background-color:red;
+  height:50px;
+  width:50px;
+  border:none;
+  border-radius:50%
+}
+
+.button-container {
+  position:absolute;
+  bottom:10px;
+  left:0
+}
+
+.website-buttons {
+  background-color: red;
+  margin: 25px;
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid red
+}
+
+img {
+  width:100%;
+  border-radius: 10px 10px
+}
+
+#modal {
+  position:fixed;
+  left: 50%;
+  bottom: 50%;
+
+}
+
+.card-showcase {
+  background-color: white;
+  margin:5%;
+  border: 2px solid white;
+  border-radius:10px;
+  text-align:center;
+}
+
+
 
 @media screen and (max-width: 900px){
   .skills {

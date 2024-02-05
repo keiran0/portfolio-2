@@ -180,12 +180,21 @@ img {
     display:block
   }
 
+  .timeline {
+    margin: 3% 5%
+  }
+
+  .showcase {
+    display:block
+  }
+
 }
 
 @media screen and (max-width: 750px){
 
   .timeline {
-    display:block
+    display:block;
+    margin: 3% 10%
   }
 
   .categories {

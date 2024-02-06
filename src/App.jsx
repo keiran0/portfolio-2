@@ -23,6 +23,8 @@ export default function App() {
   return (
     <>
       <div id='modal'></div>
+      <h2 className="section-title">Projects</h2>
+      <p>Click on a project to view the site embed.</p>
       {categories ? <Showcase display={display} handleClick={()=>categoryMode()}/>: <Categories data={data} onClick={(details)=>showcaseMode(true,details)}/> }
     
     </>

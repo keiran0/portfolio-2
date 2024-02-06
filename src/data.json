@@ -4,7 +4,7 @@
             {
                 "id":0,
                 "title": "Front-End Web Development",
-                "description": "I learnt basic front-end development with HTML, CSS and JavaScript through a course on Udemy, then used another course to learn a front-end framework, React. Through the whole process, I did projects on a site called FrontEndMentor. The site provides mockup images of a site, and users must code a site that is as close to the original image as possible. Users can receive feedback from other users in the community on the ways they can improve their code. Most of the projects showcased here are the challenges from the aforementioned site. Some of them are 'challenges' provided throughout the courses I took.",
+                "description": "Click here for front-end projects.",
                 "projects":[
                     {
                         "title":"Rest Countries API with React",
@@ -91,7 +91,7 @@
             {
                 "id":1,
                 "title": "Backend Web Development",
-                "description":"I learnt the basics of backend development with NodeJS. The projects in this section are mostly from course challenges. Note that the loading times for the project embeds in this section may take some time to load as they are hosted on a free site that will spin down with inactivity.",
+                "description":"Click here for back-end projects. Note that the loading times for the project embeds in this section may take some time to load as they are hosted on a free site that will spin down with inactivity.",
                 "projects": [
                     {
                         "title":"To-do List with NodeJS, ExpressJS and MongoDB",
@@ -112,7 +112,7 @@
             {
                 "id":2,
                 "title": "Machine Learning",
-                "description":"I have just started learning machine learning. I have completed the supervised learning section of the course I am taking, and am now doing some Kaggle projects.",
+                "description":"Click here for machine learning projects.",
                 "projects": [
                     {
                         "title":"Predicting the Survival of Passengers on the Titanic",

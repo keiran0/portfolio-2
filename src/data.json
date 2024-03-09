@@ -91,7 +91,7 @@
             {
                 "id":1,
                 "title": "Backend Web Development",
-                "description":"Click here for back-end projects. Note that the loading times for the project embeds in this section may take some time to load as they are hosted on a free site that will spin down with inactivity.",
+                "description":"Click here for back-end projects. Please be patient as the loading times for the project embeds in this section may take some time.",
                 "projects": [
                     {
                         "title":"To-do List with NodeJS, ExpressJS and MongoDB",
@@ -120,6 +120,20 @@
                         "siteLink":"https://keiran0.github.io/kaggle-titanic-machine-learning-from-disaster/",
                         "description":"",
                         "preview":"./titanic-kaggle.png"
+                    },
+                    {
+                        "title":"Predicting the Survival of Passengers on a Spaceship",
+                        "codeLink":"https://github.com/keiran0/kaggle-spaceship-titanic/blob/master/notebook.ipynb",
+                        "siteLink":"https://keiran0.github.io/kaggle-spaceship-titanic/",
+                        "description":"",
+                        "preview":"./spaceship-titanic-kaggle.jpg"
+                    },
+                    {
+                        "title":"Natural Language Processing with Disaster Tweets",
+                        "codeLink":"https://github.com/keiran0/kaggle-nlp-with-disaster-tweets/blob/master/index.ipynb",
+                        "siteLink":"https://keiran0.github.io/kaggle-nlp-with-disaster-tweets/",
+                        "description":"",
+                        "preview":"./nlp-disaster-tweets-kaggle.png"
                     }
                 ]
             }

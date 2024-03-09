@@ -5,6 +5,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.subheading {
+  margin-bottom: 0
+}
+
 .introduction {
   background-color: azure;
 }

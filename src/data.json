@@ -134,6 +134,13 @@
                         "siteLink":"https://keiran0.github.io/kaggle-nlp-with-disaster-tweets/",
                         "description":"",
                         "preview":"./nlp-disaster-tweets-kaggle.png"
+                    },
+                    {
+                        "title":"Natural Language Processing with Author Identification",
+                        "codeLink":"https://github.com/keiran0/kaggle-spooky-author-identification/blob/master/index.ipynb",
+                        "siteLink":"https://keiran0.github.io/kaggle-spooky-author-identification/",
+                        "description":"",
+                        "preview":"./nlp-author-identification-kaggle.png"
                     }
                 ]
             }
